@@ -1,0 +1,15 @@
+# Build outputs
+target/
+
+# Local tooling caches
+.cache/
+.screenshots/
+.vscode/
+.trae/
+
+# Local scratch modules (not part of the workspace)
+calculator/
+
+# Logs and debug symbols
+*.log
+*.pdb

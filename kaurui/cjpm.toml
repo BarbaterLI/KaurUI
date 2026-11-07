@@ -1,0 +1,5 @@
+[package]
+  name = "kaurui"
+  version = "0.1.0"
+  cjc-version = "1.2.0"
+  output-type = "static"
